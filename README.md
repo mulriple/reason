@@ -1,4 +1,4 @@
 reason
 ======
 
-Based on Hierarchical Temporal Memory Intelligent Storage System
+Based on Hierarchical Temporal Memory algorithm for intelligent storage system
